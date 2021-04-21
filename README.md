@@ -1,3 +1,3 @@
-# ddos-guard-baypass
+# ddos-guard-bypass
 ___
-Simple code example for baypass DDoS-Guard.
+Simple code example for bypass DDoS-Guard.
